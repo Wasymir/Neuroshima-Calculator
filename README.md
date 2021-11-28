@@ -1,7 +1,7 @@
 # **ENG:** A Simple DC calclculator for Neuroshima - Polish Rpg System.
 ---
 
-# **PL:** Prosty Kalkulator Poziomów Trudności Dla Neuroshimy
+# **PL:** Prosty Kalkulator Poziomów Trudności Dla Neuroshimy.
 
 ---
 
