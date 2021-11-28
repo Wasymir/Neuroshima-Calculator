@@ -23,5 +23,5 @@ Output:
 >cholernie trudny -> 4\
 >fart -> 0\
 >mistrzowski -> -5\
->arcymistrzowski -> -9\
+>arcymistrzowski -> -9
 
