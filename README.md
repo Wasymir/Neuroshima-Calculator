@@ -15,13 +15,13 @@ Input:
 
 Output:
 
->łatwy -> 17
->przeciętny -> 5
->problematyczny -> 13
->trudny -> 10
->bardzo trudny -> 7
->cholernie trudny -> 4
->fart -> 0
->mistrzowski -> -5
->arcymistrzowski -> -9
+>łatwy -> 17\
+>przeciętny -> 5\
+>problematyczny -> 13\
+>trudny -> 10\
+>bardzo trudny -> 7\
+>cholernie trudny -> 4\
+>fart -> 0\
+>mistrzowski -> -5\
+>arcymistrzowski -> -9\
 
